@@ -24,6 +24,11 @@
 
 ---
 
+### P2
+📄 [Link para o protótipo de baixa fidelidade](https://balsamiq.cloud/skle3pq/pzemqob/r78B0?f=N4IgUiBcCMA0IDkoAZ4GEXwDJTiAQrvAFpEgDSUA2gLoC+QA)
+
+---
+
 ### Gráficos retirados do Questionário Online
 <img width="697" height="312" alt="Captura de tela 2025-11-12 181004" src="https://github.com/user-attachments/assets/441614cb-77b9-4338-bd1f-2f2470419302" />
 
@@ -36,4 +41,3 @@
 <img width="739" height="293" alt="Captura de tela 2025-11-12 181055" src="https://github.com/user-attachments/assets/068db96e-cc90-4a4f-a5fd-d50523b10a38" />
 
 <img width="561" height="162" alt="image" src="https://github.com/user-attachments/assets/dc30b1af-6507-4fa4-9872-0bacfcd149e3" />
-
