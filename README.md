@@ -27,7 +27,7 @@
 ### P2
 📄 [Link para o protótipo de baixa fidelidade](https://balsamiq.cloud/skle3pq/pzemqob/rDEE5?f=N4IgUiBcCMA0IDkoAZ4GEXwDJTiAQrvAFpEgDSUA2gLoC+QA)
 
-📄 [Brainstorming](docs/BrainstormingSession.pdf)
+📄 [Brainstorming](doc/Brainstorming.pdf)
 
 
 ---
