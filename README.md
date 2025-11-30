@@ -32,6 +32,10 @@
 
 ---
 
+### P4
+📄 [Link para o protótipo de alta fidelidade](https://www.figma.com/design/5Qm6FMErR49ah3fPANDWET/projeto---ihc-ux?node-id=0-1&t=nGR8IdHfBMKT31Cj-1)
+
+📄 [PDF]()
 ### Gráficos retirados do Questionário Online
 <img width="697" height="312" alt="Captura de tela 2025-11-12 181004" src="https://github.com/user-attachments/assets/441614cb-77b9-4338-bd1f-2f2470419302" />
 
