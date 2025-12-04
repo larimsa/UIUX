@@ -33,9 +33,9 @@
 ---
 
 ### P4
-📄 [Link para o protótipo de alta fidelidade](https://www.figma.com/design/5Qm6FMErR49ah3fPANDWET/projeto---ihc-ux?node-id=0-1&t=nGR8IdHfBMKT31Cj-1)
+📄 [Link para o protótipo de alta fidelidade]([https://www.figma.com/design/5Qm6FMErR49ah3fPANDWET/projeto---ihc-ux?node-id=0-1&t=nGR8IdHfBMKT31Cj-1](https://www.figma.com/proto/5Qm6FMErR49ah3fPANDWET/projeto---ihc-ux?node-id=2001-562&p=f&t=5TaKmmQ5R2CjHkwe-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2001%3A562))
 
-📄 [PDF]()
+📄 [PDF](doc/Figma.pdf)
 ### Gráficos retirados do Questionário Online
 <img width="697" height="312" alt="Captura de tela 2025-11-12 181004" src="https://github.com/user-attachments/assets/441614cb-77b9-4338-bd1f-2f2470419302" />
 
